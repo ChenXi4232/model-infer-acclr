@@ -1,0 +1,4 @@
+# ResNet9
+type: ResNet9
+in_channels: 3
+num_classes: 10
